@@ -17,5 +17,7 @@
     "editor.wordWrap": "wordWrapColumn",
     "editor.wrappingIndent": "same",
     "editor.wordWrapColumn": 80
-  }
+},
+"editor.suggestSelection": "first",
+"vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue"
 }
